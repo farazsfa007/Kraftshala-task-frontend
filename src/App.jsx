@@ -1,8 +1,8 @@
 import "./App.css";
 import MeetingForm from "./components/MeetingForm.jsx";
 import MeetingList from "./components/MeetingList.jsx";
-import UserDetails from "./components/userDetails.jsx";
-import UserForm from "./components/userForm.jsx";
+import UserDetails from "./components/UserDetails.jsx";
+import UserForm from "./components/UserForm.jsx";
 
 export default function App() {
   return (
@@ -11,7 +11,6 @@ export default function App() {
 
       <UserForm />
       <UserDetails />
-
       <MeetingForm />
       <MeetingList />
     </div>

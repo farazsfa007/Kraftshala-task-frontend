@@ -1,8 +1,8 @@
 import "./App.css";
-import MeetingForm from "./components/MeetingForm";
-import MeetingList from "./components/MeetingList";
-import UserDetails from "./components/userDetails";
-import UserForm from "./components/userForm";
+import MeetingForm from "./components/MeetingForm.jsx";
+import MeetingList from "./components/MeetingList.jsx";
+import UserDetails from "./components/userDetails.jsx";
+import UserForm from "./components/userForm.jsx";
 
 export default function App() {
   return (

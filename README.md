@@ -92,15 +92,13 @@ src/
  │   └─ asyncHandler.js
  └─ modules/
      ├─ user/
-     │   ├─ model/
-     │   ├─ service/
-     │   ├─ interface/
-     │   └─ routes/
+     │   ├─ service.jsx
+     │   ├─ interface.jsx
+     │   └─ routes.jsx
      └─ meeting/
-         ├─ model/
-         ├─ service/
-         ├─ interface/
-         └─ routes/
+         ├─ service.jsx
+         ├─ interface.jsx
+         └─ routes.jsx
 ```
 
 **Architecture Flow:**
